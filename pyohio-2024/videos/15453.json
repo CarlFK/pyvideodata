@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "You have some code running locally, but you want to be able to share it with your team members and you run into the biggest snag of all, none of them are technical. \r\n\r\nSo how do you share code when the idea of asking someone to run git or docker stops them from every trying to automate the boring work that they have to do? \r\n\r\nLet's dive into the fun of trying to go from trying to share code and have others run it. From sharing a Juypter notebook/Google Collab, to new places like py.space, or even trying to host a web app on PythonAnywhere, what are the easiest solutions to get code snippets up and running for non\\-technical people?",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T10:15:00",
+  "slug": "So_I_Got_Some_Code_Working_Now_How_Do_I_Share_It",
+  "source_url": "https://youtu.be/4rLy4bYxQ0c",
+  "speakers": [
+    "Elaine Wong"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/4rLy4bYxQ0c/hqdefault.jpg",
+  "title": "So, I Got Some Code Working\u2026 Now How Do I Share It?!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/4rLy4bYxQ0c"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-So_I_Got_Some_Code_Working_Now_How_Do_I_Share_It/So_I_Got_Some_Code_Working_Now_How_Do_I_Share_It.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-So_I_Got_Some_Code_Working_Now_How_Do_I_Share_It"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/so-i-got-some-code-working-now-how-do-i-share-it"
+    }
+  ],
+  "veyepar_state": 5
+}

@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "*What happens in Python when you type things like?*\r\n\r\n\r\n```\r\ndef spam():\r\n    return 1,2,3\r\n\r\na, b, c = spam()\r\n\r\n```\r\n\r\n```\r\ndef foo(*args, **kwargs):\r\n   ...\r\n\r\n```\r\n\r\n```\r\nfor name, value in some_dict.items():\r\n\r\n```\r\n\r\n```\r\nmy_dict = some_func_that_returns_a_dict()\r\n\r\nsome_other_func(**my_dict)\r\n\r\n```\r\n\r\nIn this talk, we'll examine Python's ability to unpack values from (or sometimes pack them into) sequences. We'll see how that capability powers a host of powerful Python idioms. We'll also look at some less commonly used syntax to unpack sequences into complex data structures. Used judiciously, these techniques can simplify your code. Last, we'll talk about mental models, and why it's important to develop good mental models for what's happening \"under\\-the\\-hood\" when we write Python. Well show what can (and did) happen when having the wrong mental model of unpacking syntax lead to a bug. We'll look at code that shows the problem, discuss what's really happening, then use the Python bytecode disassembler to confirm our intuition.\r\n\r\nAlthough this talk briefly uses the Python bytecode disassembler, it's aimed at beginners (though not complete novices) who want to write more idiomatic Python, and develop a better intuition for what's really happening in the interpreter when their code runs.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T11:00:00",
+  "slug": "A_Python_Sequence_UnPacking_Primer",
+  "source_url": "https://youtu.be/oZv1mRhLxxU",
+  "speakers": [
+    "Brian Costlow"
+  ],
+  "summary": "",
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/oZv1mRhLxxU/hqdefault.jpg",
+  "title": "A Python Sequence (Un)Packing Primer",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/oZv1mRhLxxU"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-A_Python_Sequence_UnPacking_Primer/A_Python_Sequence_UnPacking_Primer.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-A_Python_Sequence_UnPacking_Primer"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/a-python-sequence-un-packing-primer"
+    }
+  ],
+  "veyepar_state": 5
+}

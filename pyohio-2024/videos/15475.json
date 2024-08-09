@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "People often spend so much time learning how to build apps in Django that when it comes time for deployment, it feels like a whole new world that they don\u2019t understand. Deployment recipes might help them get their app online\u2013but then again they might not, if the steps that worked yesterday don\u2019t work today. Even if they do get online, they might not understand that deployment process anymore than they did before.\r\n\r\nInstead of offering another set of steps, I think we can help beginners to make sense of deployment by reducing the entire process to four major areas of concern and equipping them to think through each of these on its own terms:\r\n\r\n* Static Files \\- why do I have to worry about these now? I thought {% static %} was handling it?\r\n* Database \\- does my sqlite3 file not work in deployment? How do I use my cloud provider\u2019s remote DB?\r\n* WSGI Server \\- how do I run my app in production? Doesn\u2019t manage.py runserver work? I\u2019ve never heard of WSGI, what is it and why does it matter to my Django project?\r\n* Web Server (Apache/nginx/PaaS) \\- What do I need to understand about web servers like Apache or nginx to get my project online? Do I even need to configure a web server if I go with PaaS?\r\n\r\nWe\u2019ll also consider:\r\n\r\n* Django\u2019s deployment checklist\r\n* django\\-simple\\-deploy",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T11:00:00",
+  "slug": "What_Django_Deployment_is_Really_About",
+  "source_url": "https://youtu.be/rqHWHQrkAnI",
+  "speakers": [
+    "James Walters"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/rqHWHQrkAnI/hqdefault.jpg",
+  "title": "What Django Deployment is Really About",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/rqHWHQrkAnI"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-What_Django_Deployment_is_Really_About/What_Django_Deployment_is_Really_About.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-What_Django_Deployment_is_Really_About"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/what-django-deployment-is-really-about"
+    }
+  ],
+  "veyepar_state": 5
+}

@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Data science and Agile aren't famous for getting along. Data scientists complain that Agile frameworks are too restrictive and deadline\\-focused to accommodate the type of work they do. Scrum masters and product owners have a hard timing planning around unclear timelines and uncertain outcomes, and wish the data scientists would just tell them how much effort a task will take.\r\n\r\nBut it doesn't have to be this way! Data science and Agile can work together to create a better system for everyone. In this talk I'll highlight tips and pitfalls from my own experience, as well as stories I've heard from my colleagues.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T11:45:00",
+  "slug": "Data_Science_Agile_Strategies_for_Working_Together",
+  "source_url": "https://youtu.be/6HPacg9zDkU",
+  "speakers": [
+    "Alyssa Batula"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/6HPacg9zDkU/hqdefault.jpg",
+  "title": "Data Science & Agile: Strategies for Working Together",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/6HPacg9zDkU"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Data_Science_Agile_Strategies_for_Working_Together/Data_Science_Agile_Strategies_for_Working_Together.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Data_Science_Agile_Strategies_for_Working_Together"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/data-science-agile-strategies-for-working-together"
+    }
+  ],
+  "veyepar_state": 5
+}

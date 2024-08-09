@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Async functions in Python are a great way to simplify otherwise complex code involving network calls, database queries, or in general waiting and responding to \"events\". But before you can asycio.run you must learn how to walk\\-through some examples. \r\n\r\nThis talk will start with the async/await basics, then show common patterns encountered when solving problems with Python's asyncio module, and introduce some of its newer features, such as Barriers, TaskGroups, and ExceptionGroups.\r\n\r\nThis is a code\\-heavy, zero\\-to\\-hero talk where all the examples are run, and we can experiment and change the code if the audience has questions.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T13:15:00",
+  "slug": "Asyncio_by_Example",
+  "source_url": "https://youtu.be/oRI9TAN0GbQ",
+  "speakers": [
+    "Andrew Kubera"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/oRI9TAN0GbQ/hqdefault.jpg",
+  "title": "Asyncio by Example",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/oRI9TAN0GbQ"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Asyncio_by_Example/Asyncio_by_Example.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Asyncio_by_Example"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/asyncio-by-example"
+    }
+  ],
+  "veyepar_state": 5
+}

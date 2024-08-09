@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Steph Hippo presents our Saturday morning keynote.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T09:15:00",
+  "slug": "Keynote_10",
+  "source_url": "https://youtu.be/cXMpzHAZbLA",
+  "speakers": [
+    "Steph Hippo"
+  ],
+  "summary": "",
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/cXMpzHAZbLA/hqdefault.jpg",
+  "title": "Keynote",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/cXMpzHAZbLA"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Keynote_10/Keynote_10.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Keynote_10"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/steph-hippo-keynote"
+    }
+  ],
+  "veyepar_state": 5
+}

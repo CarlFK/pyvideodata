@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Happy developers do not have to fight their tools and environment to be productive. They get set up in minutes, deploy without hesitation, and use the same tools to debug in any environment. In this talk and live demo, we'll explore how a Kubernetes\\-based development workflow can help you and your team hit the ground running.\r\n\r\nWe will delve into establishing a powerful Django backend for server\\-side functionality and a dynamic React frontend for an engaging user experience. For databases, the setup will include a local Postgres database for development and CloudNativePG for production\\-level deployments. Additionally, the integration of Redis for enhanced application performance and email testing will be covered. \r\n\r\nThis comprehensive approach ensures that onboarding a new developer on a project is streamlined, overcoming the typical pain points such as:\r\n\r\n* manual installation steps\r\n* the inconsistency of tools across development environments\r\n\r\nKubernetes will empower your development and DevOps teams to speak a common language and collaborate effectively, standardizing deployments and debugging processes in local, preview, staging, and production environments.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T13:15:00",
+  "slug": "Mastering_the_Zen_of_Dev_Experience_Kubernetes_and_the_Art_of_Simplicity",
+  "source_url": "https://youtu.be/AZvMebTZDkk",
+  "speakers": [
+    "Calvin Hendryx-Parker"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/AZvMebTZDkk/hqdefault.jpg",
+  "title": "Mastering the Zen of Dev Experience: Kubernetes and the Art of Simplicity",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/AZvMebTZDkk"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Mastering_the_Zen_of_Dev_Experience_Kubernetes_and_the_Art_of_Simplicity/Mastering_the_Zen_of_Dev_Experience_Kubernetes_and_the_Art_of_Simplicity.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Mastering_the_Zen_of_Dev_Experience_Kubernetes_and_the_Art_of_Simplicity"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/mastering-the-zen-of-dev-experience-kubernetes-and-the-art-of"
+    }
+  ],
+  "veyepar_state": 5
+}

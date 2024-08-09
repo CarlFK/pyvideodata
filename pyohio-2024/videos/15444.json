@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "In this presentation, I'll cover memory management in Python starting from the fundamentals. I'll explain the rationale behind the need for PEP 683: \"Immortal Objects, Using a Fixed Refcount\", discussing about this change may be unlocking exciting avenues for true parallelism in Python.\r\n\r\nThe takeaway of this presentation would be :  \r\n\r\na) Refresher on object(mutable vs immutable and their significance)  \r\n\r\nb) Refresher on Life cycle of a Python object.  \r\n\r\nc) Refresher on Python memory management with garbage collection  \r\n\r\nd) How overcoming with pseudo immutable object will be unlocking exciting avenues for true parallelism in Python.\r\n\r\nThe target audience would be intermediate and advanced pythonistas. However I will present the information in simple and subtle manner for better understanding of Python newbies.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T13:15:00",
+  "slug": "Introducing_Immortal_Objects_Building_Block_Towards_a_Multicore_Python_Runtime",
+  "source_url": "https://youtu.be/U-o2QtXAnps",
+  "speakers": [
+    "Aditya Mehra"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/U-o2QtXAnps/hqdefault.jpg",
+  "title": "Introducing Immortal Objects: Building Block Towards a Multi-core Python Runtime",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/U-o2QtXAnps"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Introducing_Immortal_Objects_Building_Block_Towards_a_Multicore_Python_Runtime/Introducing_Immortal_Objects_Building_Block_Towards_a_Multicore_Python_Runtime.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Introducing_Immortal_Objects_Building_Block_Towards_a_Multicore_Python_Runtime"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/introducing-immortal-objects-building-block-towards-a-multi-core"
+    }
+  ],
+  "veyepar_state": 5
+}

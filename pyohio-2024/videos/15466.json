@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "With an average of 195 daily deaths due to synthetic opioids overdose in 2021, the US have been facing an unprecedented opioids crisis. Fentanyl and its analogues have been a major source of concern, due to their high levels of addiction, fast\\-acting mechanisms, and detection challenges. Fast, effective, and accurate identification and quantification of fentanyl, its analogues, and metabolites are essential to help prevent overdose\\-related incidents and to enable agile medical response. Although electrochemical sensors represent a promising technology for selectively detecting opioids at low concentrations, analyzing and processing the data remains one of the major challenges. To tackle this challenge, certain Python libraries, such as *scipy.signal*, could be useful in processing signals with high levels of noise and interference from other substances. \r\n\r\nThis talk will focus on specific examples of how such libraries could help enable filtering, Fourier transformation, and wavelet analysis of electrochemical data. As examples, code snippets and outputs will be shown to demonstrate how Python can help improve the quality and usability of electrochemical data. Additionally, this talk will show how data processing can further benefit from hyper parameter optimization techniques, enabled by libraries like *hyperopt* and *ray\\-tune*. By doing so, my hope is to demonstrate how Python could be extremely useful in helping address problems at the intersection of statistics, public health, and public policy.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T12:30:00",
+  "slug": "Signal_Processing_in_Electrochemistry_with_Python_Applications_to_the_US_Opioids_Crisis",
+  "source_url": "https://youtu.be/7UPzG0HhjDE",
+  "speakers": [
+    "Rodrigo Silva Ferreira"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/7UPzG0HhjDE/hqdefault.jpg",
+  "title": "Signal Processing in Electrochemistry with Python: Applications to the US Opioids Crisis",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/7UPzG0HhjDE"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Signal_Processing_in_Electrochemistry_with_Python_Applications_to_the_US_Opioids_Crisis/Signal_Processing_in_Electrochemistry_with_Python_Applications_to_the_US_Opioids_Crisis.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Signal_Processing_in_Electrochemistry_with_Python_Applications_to_the_US_Opioids_Crisis"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/signal-processing-in-electrochemistry-with-python-applications"
+    }
+  ],
+  "veyepar_state": 5
+}

@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Unleashing the power of serverless AI has never been more accessible, and Python enthusiasts are in for a treat! Dive into this talk to discover how WebAssembly based Open Source project Spin seamlessly bridges the gap between Python and Serverless AI. There are no models to download. Just create, build and deploy! This talk will guide you on building your own serverless AI inferencing using Python and promises to elevate your game instantly.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T10:15:00",
+  "slug": "Serverless_AI_Inferencing_Using_Python_and_WebAssembly",
+  "source_url": "https://youtu.be/CYs27fJhAZU",
+  "speakers": [
+    "Shivay Lamba"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/CYs27fJhAZU/hqdefault.jpg",
+  "title": "Serverless AI Inferencing Using Python and WebAssembly",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/CYs27fJhAZU"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Serverless_AI_Inferencing_Using_Python_and_WebAssembly/Serverless_AI_Inferencing_Using_Python_and_WebAssembly.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Serverless_AI_Inferencing_Using_Python_and_WebAssembly"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/serverless-ai-inferencing-using-python-and-webassembly"
+    }
+  ],
+  "veyepar_state": 5
+}

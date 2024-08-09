@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Vector\\-Symbolic Architectures (a.k.a. Hyperdimensional Computing) is a relatively new computational paradigm that involves the use of random vectors in a high\\-dimensional space to represent and process information. As a computational paradigm, it finds applications in a wide range of fields, including artificial intelligence, natural language processing, internet\\-of\\-things, robotics, bioinformatics, and other scientific domains.\r\n\r\nHere we are going to introduce some fundamental concepts at the base of Hyperdimensional Computing, following a presentation of *hdlib*, a library for building Vector\\-Symbolic Architectures with Python. Finally, we are going to see how to easily build a machine learning model based on the Hyperdimensional Computing paradigm as a practical use case.\r\n\r\nAs a reference, *hdlib* is open\\-source, it is available on GitHub at [https://github.com/cumbof/hdlib](https://github.com/cumbof/hdlib), and it is published on the Journal of Open Source Software at [[https://doi.org/10\\.21105/joss.05704](https://doi.org/10.21105/joss.05704)](https://doi.org/10.21105/joss.05704).",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T14:00:00",
+  "slug": "Building_VectorSymbolic_Architectures_with_Python",
+  "source_url": "https://youtu.be/srKmE_j-gfo",
+  "speakers": [
+    "Fabio Cumbo"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/srKmE_j-gfo/hqdefault.jpg",
+  "title": "Building Vector-Symbolic Architectures with Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/srKmE_j-gfo"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Building_VectorSymbolic_Architectures_with_Python/Building_VectorSymbolic_Architectures_with_Python.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Building_VectorSymbolic_Architectures_with_Python"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/building-vector-symbolic-architectures-with-python"
+    }
+  ],
+  "veyepar_state": 5
+}

@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "When I started working with Elasticsearch, the data in my index quickly needed to be updated. I built a solution using Cloud Functions and Cloud Scheduler in GCP to update my data automatically, a paradigm I've used for creative projects. This talk will outline strategies for automating routine processes while ensuring that the outcomes adapt to changing requirements, enhancing project innovation and data accuracy.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T14:15:00",
+  "slug": "How_to_Do_the_Same_Thing_Over_and_Over_Again_and_Yield_Different_Results",
+  "source_url": "https://youtu.be/tLq3spBR9qg",
+  "speakers": [
+    "Jessica Garson"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/tLq3spBR9qg/hqdefault.jpg",
+  "title": "How to Do the Same Thing Over and Over Again and Yield Different Results",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/tLq3spBR9qg"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-How_to_Do_the_Same_Thing_Over_and_Over_Again_and_Yield_Different_Results/How_to_Do_the_Same_Thing_Over_and_Over_Again_and_Yield_Different_Results.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-How_to_Do_the_Same_Thing_Over_and_Over_Again_and_Yield_Different_Results"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/how-to-do-the-same-thing-over-and-over-again-and-yield-different"
+    }
+  ],
+  "veyepar_state": 5
+}

@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Mariatta presents our Saturday afternoon keynote.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T15:45:00",
+  "slug": "Keynote_9",
+  "source_url": "https://youtu.be/uJat5JEeoBU",
+  "speakers": [
+    "Mariatta"
+  ],
+  "summary": "",
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/uJat5JEeoBU/hqdefault.jpg",
+  "title": "Keynote",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/uJat5JEeoBU"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Keynote_9/Keynote_9.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Keynote_9"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/mariatta-keynote"
+    }
+  ],
+  "veyepar_state": 5
+}

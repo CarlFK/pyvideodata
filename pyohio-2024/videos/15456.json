@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "The era of quantum computing is here. As it continues to evolve from being a technology in its infancy, to something that could revolutionize many aspects of daily life, it is capturing the interest of academia, government, and industry alike. It is thus of great importance for members of the scientific community to familiarize themselves with the theory and applications of this new computing method \\-\\- and especially how to program and develop algorithms on these devices.\r\n\r\nIn this talk, we'll take a look at the incorporation of Qiskit, IBM's Python\\-based software stack for quantum computing, into the Galaxy ecosystem. We'll revisit the basic theory of quantum computing along with the many important components of the coding framework and syntaxes, and we'll explore a series of previously developed Qiskit tutorials and Jupyter notebooks, presenting new ways of solving some of the most relevant problems in contemporary science and engineering.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T11:00:00",
+  "slug": "Quantum_Computing_with_Qiskit_in_Galaxy",
+  "source_url": "https://youtu.be/cR1-ymGB_HQ",
+  "speakers": [
+    "Bryan Raubenolt"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/cR1-ymGB_HQ/hqdefault.jpg",
+  "title": "Quantum Computing with Qiskit in Galaxy",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/cR1-ymGB_HQ"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Quantum_Computing_with_Qiskit_in_Galaxy/Quantum_Computing_with_Qiskit_in_Galaxy.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Quantum_Computing_with_Qiskit_in_Galaxy"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/quantum-computing-with-qiskit-in-galaxy"
+    }
+  ],
+  "veyepar_state": 5
+}

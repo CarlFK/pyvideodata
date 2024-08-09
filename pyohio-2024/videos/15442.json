@@ -1,0 +1,36 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Lightning Talks",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T16:30:00",
+  "slug": "Lightning_Talks_27",
+  "source_url": "https://youtu.be/zK59uTsyrf0",
+  "speakers": [],
+  "summary": "",
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/zK59uTsyrf0/hqdefault.jpg",
+  "title": "Lightning Talks",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/zK59uTsyrf0"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Lightning_Talks_27/Lightning_Talks_27.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Lightning_Talks_27"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/lightning-talks"
+    }
+  ],
+  "veyepar_state": 5
+}

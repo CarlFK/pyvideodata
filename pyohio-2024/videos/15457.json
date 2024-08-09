@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "We are over 20 years into the genomics era, with new insights into human health and our recent evolutionary history emerging almost daily. Genomics may seem like the province of PhDs and R\\&D departments, but anyone with basic Python skills can navigate a genomics data pipeline and explore human genetic diversity, including their own! In this presentation, I will introduce the fields of population and health genomics, and the types of domain\\-specific data used for genomics study. I will then demonstrate how you can use Python to visualize and analyze public data sources like the 1000 Genomes Project using unsupervised machine learning methods, and how to investigate your own genomics data from sources like *23andMe*. Since many people are not comfortable giving for\\-profit companies access to their genomic data, I'll also show how you can simulate realistic personal genomic data via a supervised ML model.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T14:45:00",
+  "slug": "23_Python_and_Me_Using_Machine_Learning_in_Python_to_Analyze_Consumer_Genomics_Data",
+  "source_url": "https://youtu.be/_51o1CK_3_0",
+  "speakers": [
+    "Nathan Brouwer"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/_51o1CK_3_0/hqdefault.jpg",
+  "title": "23, Python and Me: Using Machine Learning in Python to Analyze Consumer Genomics Data",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/_51o1CK_3_0"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-23_Python_and_Me_Using_Machine_Learning_in_Python_to_Analyze_Consumer_Genomics_Data/23_Python_and_Me_Using_Machine_Learning_in_Python_to_Analyze_Consumer_Genomics_Data.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-23_Python_and_Me_Using_Machine_Learning_in_Python_to_Analyze_Consumer_Genomics_Data"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/23-python-and-me-using-machine-learning-in-python-to-analyze"
+    }
+  ],
+  "veyepar_state": 5
+}

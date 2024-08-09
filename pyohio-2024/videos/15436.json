@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Trey Hunner presents our Sunday afternoon keynote.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T15:30:00",
+  "slug": "Keynote_7",
+  "source_url": "https://youtu.be/Iq977ww-jpI",
+  "speakers": [
+    "Trey Hunner"
+  ],
+  "summary": "",
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/Iq977ww-jpI/hqdefault.jpg",
+  "title": "Keynote",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/Iq977ww-jpI"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Keynote_7/Keynote_7.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Keynote_7"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/trey-hunner-keynote"
+    }
+  ],
+  "veyepar_state": 5
+}

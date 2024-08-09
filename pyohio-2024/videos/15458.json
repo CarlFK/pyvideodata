@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Have you seen `pathlib`? If not, once I show you, you will never go back to string paths and `os.path` ever again! `pathlib` turns paths into path objects, which have attributes and methods that cover a number of operations. In this talk, we will:\r\n\r\n* Talk about how to create `Path` objects, and how this differs on Windows vs Mac/Linux\r\n* Talk about the many properties of pure paths\r\n* Talk about folder operations from `Path` objects, such as creating directory structures and recursive globbing.\r\n* Talk about file operations, made simpler with `Path` objects, such as reading contents, getting properties like file size, and deleting.\r\n\r\nStop messing with string paths and get with `pathlib`!",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T12:30:00",
+  "slug": "Hot_Pathlib_Not_String_Paths",
+  "source_url": "https://youtu.be/pUw7bRAFLPc",
+  "speakers": [
+    "Josh Schneider"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/pUw7bRAFLPc/hqdefault.jpg",
+  "title": "Hot: Pathlib, Not: String Paths",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/pUw7bRAFLPc"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Hot_Pathlib_Not_String_Paths/Hot_Pathlib_Not_String_Paths.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Hot_Pathlib_Not_String_Paths"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/hot-pathlib-not-string-paths"
+    }
+  ],
+  "veyepar_state": 5
+}

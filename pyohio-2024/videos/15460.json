@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "I've been writing Python code for twenty years now, and in that time I've done some bad things to it.\r\n\r\nLet's discuss them and why you would want to also do black magic, atrocities, abominations, and other sins.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T12:30:00",
+  "slug": "A_Confession_of_My_Python_Sins",
+  "source_url": "https://youtu.be/EFgmCHzVQOs",
+  "speakers": [
+    "Jamie Bliss"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/EFgmCHzVQOs/hqdefault.jpg",
+  "title": "A Confession of My Python Sins",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/EFgmCHzVQOs"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-A_Confession_of_My_Python_Sins/A_Confession_of_My_Python_Sins.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-A_Confession_of_My_Python_Sins"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/a-confession-of-my-python-sins"
+    }
+  ],
+  "veyepar_state": 5
+}

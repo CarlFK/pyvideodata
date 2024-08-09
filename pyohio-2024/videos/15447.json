@@ -1,0 +1,39 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Imagine you\u2019re all set to board a flight. You've got your book and snack, and you're nestled into your seat. The pilot assures you of a smooth journey ahead. Comforting, right? But for hundreds of thousands of airline passengers last holiday season, the reality was far from comforting. Remember the chaos? A major airline canceled around 17,000 flights due to outdated software in their crew scheduling system, leaving pilots clueless about their assignments.\r\n\r\nThe fallout was severe: a 15% plummet in share price, a $400 million hit to revenue, and about $300 million in compensation costs\u2014not to mention the lasting stain on their reputation.\r\n\r\nNow, let\u2019s turn to you. What upgrades are you putting off? What will it cost you to delay?\r\n\r\nFear of the unknown is a major driver of delaying upgrades and inadvertently risking security. Which deprecations in the standard library actually affect me? Do my packages support the next version of Python? If I upgrade one package, which other packages are affected?\r\n\r\nIn my talk, I will demo how new tools\u2014data that can be leveraged directly through Snowflake or through an app that also parses `requirements.txt` to do even more of the heavy lifting\u2014can help the audience navigate minefields of Python upgrades and get to the latest Python version. The audience will also leave with practical, required actions for Python deprecations on popular platforms: AWS, Heroku, and AZURE.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T14:00:00",
+  "slug": "Evolve_or_Die_How_I_Stopped_Avoiding_and_Starting_Loving_Python_Upgrades",
+  "source_url": "https://youtu.be/VSoojqx0xMo",
+  "speakers": [
+    "Ruby Henry",
+    " Ph.d."
+  ],
+  "summary": "",
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/VSoojqx0xMo/hqdefault.jpg",
+  "title": "Evolve or Die: How I Stopped Avoiding and Starting Loving Python Upgrades",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/VSoojqx0xMo"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Evolve_or_Die_How_I_Stopped_Avoiding_and_Starting_Loving_Python_Upgrades/Evolve_or_Die_How_I_Stopped_Avoiding_and_Starting_Loving_Python_Upgrades.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Evolve_or_Die_How_I_Stopped_Avoiding_and_Starting_Loving_Python_Upgrades"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/evolve-or-die-how-i-stopped-avoiding-and-starting-loving-python"
+    }
+  ],
+  "veyepar_state": 5
+}

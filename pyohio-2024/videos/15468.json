@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Overview\r\n--------\r\n\r\nMany people have probably used Locust or a tool built on top of it (like Load Forge) in the past. These tools are primarily used for web application load testing by hitting public endpoints and monitoring how they respond. In this talk we review how to use Locust to load test a PostgreSQL database.\r\n\r\nAdditional Info\r\n---------------\r\n\r\nThis is a link to an article I wrote about this topic: [https://miguel\\-codes.medium.com/unconventional\\-load\\-testing\\-leveraging\\-python\\-locust\\-for\\-postgresql\\-stress\\-testing\\-d6e07d63714b](https://miguel-codes.medium.com/unconventional-load-testing-leveraging-python-locust-for-postgresql-stress-testing-d6e07d63714b)",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T12:30:00",
+  "slug": "Stress_Less_Easy_Database_Load_Testing_Using_Python_and_Locust",
+  "source_url": "https://youtu.be/C2PggXqIJtE",
+  "speakers": [
+    "Miguel Johnson"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/C2PggXqIJtE/hqdefault.jpg",
+  "title": "Stress Less: Easy Database Load Testing Using Python and Locust",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/C2PggXqIJtE"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Stress_Less_Easy_Database_Load_Testing_Using_Python_and_Locust/Stress_Less_Easy_Database_Load_Testing_Using_Python_and_Locust.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Stress_Less_Easy_Database_Load_Testing_Using_Python_and_Locust"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/stress-less-easy-database-load-testing-using-python-and-locust"
+    }
+  ],
+  "veyepar_state": 5
+}

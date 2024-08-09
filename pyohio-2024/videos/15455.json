@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "What do NASA, Google Blogs, The Motley Fool, CFPB.gov, and the British National Health Service all have in common? Their websites are powered by Wagtail, the fastest\\-growing Python CMS that you've probably never heard of. Because it is 100% free and open\\-source, you can build your own website with Wagtail too!\r\n\r\nWe'll discuss:\r\n\r\n* What is Wagtail and what does it do?\r\n* How does it compare to other systems such as WordPress?\r\n* Overview of the Wagtail open\\-source project; how a team of volunteers makes this all possible.\r\n* Demo and brief getting started tutorial",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T14:45:00",
+  "slug": "Wagtail_The_Python_CMS_Taking_the_World_by_Storm",
+  "source_url": "https://youtu.be/kyly_c2HQE8",
+  "speakers": [
+    "Vince Salvino"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/kyly_c2HQE8/hqdefault.jpg",
+  "title": "Wagtail: The Python CMS Taking the World by Storm",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/kyly_c2HQE8"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Wagtail_The_Python_CMS_Taking_the_World_by_Storm/Wagtail_The_Python_CMS_Taking_the_World_by_Storm.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Wagtail_The_Python_CMS_Taking_the_World_by_Storm"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/wagtail-the-python-cms-taking-the-world-by-storm"
+    }
+  ],
+  "veyepar_state": 5
+}

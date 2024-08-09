@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Okay you already enjoy using python, and you already enjoy using Discord, but what if you combined both! \r\n\r\nIn this talk we will explore how to build a discord bot using the Pycord library. We\u2019ll build a dice rolling bot that utilizes Discord\u2019s native slash commands. At the end of this talk you\u2019ll have learned the different ways to invoke discord bot actions, the different lifecycle events each bot goes through, structuring the code for maintainability, and how to build for widespread adoption.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T14:45:00",
+  "slug": "Python_Discord_Great_Bots",
+  "source_url": "https://youtu.be/J-0T0Znk5Z8",
+  "speakers": [
+    "Alex Oladele"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/J-0T0Znk5Z8/hqdefault.jpg",
+  "title": "Python + Discord = Great Bots!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/J-0T0Znk5Z8"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Python_Discord_Great_Bots/Python_Discord_Great_Bots.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Python_Discord_Great_Bots"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/python-discord-great-bots"
+    }
+  ],
+  "veyepar_state": 5
+}

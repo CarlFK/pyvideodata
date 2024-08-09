@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Uncover the secrets to turbocharging your Python numeric computations by harnessing the dynamic performance of `C++`. This talk is aimed at the beginner\\-intermediate Python developer working in the ML/AI infra or performance optimization space.\r\n\r\nHave you ever wondered how the growing usage of the numeric computation stack, including libraries like numpy, scipy, and scikit\\-learn, along with deep learning libraries such as pytorch and tensorflow, are shaping the future of AI and Machine Learning? And what about the intriguing fact that these libraries are built on wrappers for the underlying C\\+\\+ code? Have you considered the benefits this brings, or how the optimization of these libraries as per the host device \\- be it CPU, GPU, or Apple Silicon \\- enhances performance and efficiency?\r\n\r\nAnd finally, let's consider the practical applications and real\\-world examples of this integration between Python and C\\+\\+. What are the challenges and solutions in bridging the gap between Python and C\\+\\+ in the context of AI and Machine Learning.\r\n\r\nObserving the growing trends at my workplace over the past few years, I am sure this process is going to be standardised soon with more developers being involved in such integrations/optimizations.\r\n\r\nThis talk aims to get the Python community excited for this growing trend by sharing:  \r\n\r\n1\\. reasoning  \r\n\r\n2\\. Integration framework/paths specifically for pybind",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T15:00:00",
+  "slug": "Boosting_Python_Numeric_Computations_with_Dynamic_C_Integration",
+  "source_url": "https://youtu.be/pk1jGO41zLw",
+  "speakers": [
+    "Mandar Deshpande"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/pk1jGO41zLw/hqdefault.jpg",
+  "title": "Boosting Python Numeric Computations with Dynamic C++ Integration",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/pk1jGO41zLw"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Boosting_Python_Numeric_Computations_with_Dynamic_C_Integration/Boosting_Python_Numeric_Computations_with_Dynamic_C_Integration.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Boosting_Python_Numeric_Computations_with_Dynamic_C_Integration"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/boosting-python-numeric-computations-with-dynamic-c-integration"
+    }
+  ],
+  "veyepar_state": 5
+}

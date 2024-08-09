@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Electroencephalogram (EEG) measures brain activity, and despite advancements in sensors since its 1924 invention, its result presentation has changed very little. We're addressing this using MNE, an open\\-source Python library.\r\n\r\nJoin us to simplify neuroimaging results for patients and enhance visualization tools for technicians. Affordable biotracking devices now capture brain wave data, and MNE enables innovative data export and manipulation. This opens new possibilities for advanced statistics, improved visualizations, and enhanced analysis capabilities.\r\n\r\nNo medical background is required \u2013 join us in revolutionizing brain activity interpretation, making it more accessible and meaningful for everyone.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-27T14:15:00",
+  "slug": "Boosting_Neuroimaging_Analysis_and_Results_Digestibility_2",
+  "source_url": "https://youtu.be/lNC5DwuUb8M",
+  "speakers": [
+    "Carlos A Aranibar"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/lNC5DwuUb8M/hqdefault.jpg",
+  "title": "Boosting Neuroimaging Analysis and Results Digestibility \ud83e\udde0",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/lNC5DwuUb8M"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Boosting_Neuroimaging_Analysis_and_Results_Digestibility_2/Boosting_Neuroimaging_Analysis_and_Results_Digestibility_2.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Boosting_Neuroimaging_Analysis_and_Results_Digestibility_2"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/boosting-neuroimaging-analysis-and-results-digestibility"
+    }
+  ],
+  "veyepar_state": 5
+}

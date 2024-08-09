@@ -1,0 +1,38 @@
+{
+  "category": null,
+  "copyright_text": "CC BY-NC-SA",
+  "description": "Have you ever heard of device authorization flow? You may have not heard it but good chances are you already used it.\r\n\r\nDevice flow allows you to login to your applications on input constrained devices, think of IoT devices or smart TVs for example.\r\n\r\nGreat applications allow the user to continue the login process on a more comfortable device instead of using, for example, the virtual keyboard on a SmartTV.\r\n\r\nIf you are developing applications that need this type of connectivity come to this talk to learn what device flow actually is, how it works, and better yet, see it working in an application that integrates Python (using FastAPI) and Micropython.",
+  "language": "eng",
+  "quality_notes": null,
+  "recorded": "2024-07-28T13:15:00",
+  "slug": "Device_Authorization_Flow_101_Logging_in_From_Input_Constrained_Devices",
+  "source_url": "https://youtu.be/OFu0xCS5W6M",
+  "speakers": [
+    "Jessica Temporal"
+  ],
+  "summary": null,
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/OFu0xCS5W6M/hqdefault.jpg",
+  "title": "Device Authorization Flow 101: Logging in From Input Constrained Devices",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://youtu.be/OFu0xCS5W6M"
+    },
+    {
+      "type": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Device_Authorization_Flow_101_Logging_in_From_Input_Constrained_Devices/Device_Authorization_Flow_101_Logging_in_From_Input_Constrained_Devices.mp4"
+    }
+  ],
+  "related_urls": [
+    {
+      "label": "archive",
+      "url": "https://archive.org/details/pyohio_2024-Device_Authorization_Flow_101_Logging_in_From_Input_Constrained_Devices"
+    },
+    {
+      "label": "conf",
+      "url": "https://www.pyohio.org/2024/program/talks/device-authorization-flow-101-logging-in-from-input-constrained"
+    }
+  ],
+  "veyepar_state": 5
+}
